@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.width{
+    width:30%;
+    height: 300px;
+}
+form{
+    box-shadow: 0 0 10px #999;
+    padding: 40px;
+    margin: 20px;
+}
+input{
+    margin: 20px 0;
+    width: 100%;
+    padding: 10px 20px;
+    display: block;
+    flex-wrap: nowrap;
+    border: 1px solid #000;
+}
+#checkbox{
+    padding: 5px 10px;
+}
